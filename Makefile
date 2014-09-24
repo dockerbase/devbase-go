@@ -1,5 +1,5 @@
 NAME = dockerbase/devbase-go
-VERSION = 1.0
+VERSION = 1.1
 
 .PHONY: all build test tag_latest release ssh enter
 
